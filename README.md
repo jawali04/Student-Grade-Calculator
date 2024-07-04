@@ -27,6 +27,6 @@ Usage:
 
 Contact:
 
-Dega Jawali Reddy
-Email: ds6008@srmist.edu.in
-LinkedIn: Dega Jawali Reddy
+* Dega Jawali Reddy
+* Email: ds6008@srmist.edu.in
+* LinkedIn: Dega Jawali Reddy
